@@ -29,6 +29,8 @@
          - 인터페이스(공유기 뒤에 인터넷선 꼽는 단자), 프로세스, 서비스
         
 - Host
+  ![image](https://github.com/muzzaiwork/Study_Network/assets/31703020/de646024-dc42-4b3a-8a97-32c3d3ce80ce)
+
   - Host: 컴퓨터인데 네트워크와 연결된 컴퓨터를 호스트라한다.
     - Switch
       - 네트워크 그 자체를 이루는 host (Infra의 영역)
